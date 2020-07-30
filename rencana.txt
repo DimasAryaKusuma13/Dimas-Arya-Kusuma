@@ -1,0 +1,5 @@
+- membuat skenario
+- membuat kerangka kerja
+- membuat frontend
+- membuat backend
+- publish
